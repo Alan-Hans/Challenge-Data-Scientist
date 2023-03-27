@@ -8,3 +8,5 @@ dataset_SCL.csv: Data given to perform this challenge.
 Challenge - Data Scientist.pdf: General description of the challenge.
 
 solution.ipynb: contain the solution of this challenge.
+
+syntethic_feature.csv: contain data requested to create in this challenge.
